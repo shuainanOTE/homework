@@ -1,0 +1,11 @@
+target/
+*.class
+apache-tomcat-10.1.36/
+.vscode/
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+*.log
+.DS_Store
